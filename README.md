@@ -240,16 +240,16 @@ http://goodtv.xyz:2052/vander/vander/2274813
 http://goodtv.xyz:2052/vander/vander/2274814
 #######CINE SKY ######
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 1
-http://goodtv.xyz:2052/vander/vander/2274671
+http://lista.lorddark.club:80/Wandeson/123456/44914
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 2" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 2
-hhttp://goodtv.xyz:2052/vander/vander/2274672
+http://lista.lorddark.club:80/Wandeson/123456/44915
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 3" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 3
-http://goodtv.xyz:2052/vander/vander/2274673
+http://lista.lorddark.club:80/Wandeson/123456/44916
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 4" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 4
-http://goodtv.xyz:2052/vander/vander/2274674
+http://lista.lorddark.club:80/Wandeson/123456/44917
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 5" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 5
-http://goodtv.xyz:2052/vander/vander/2274675
+http://lista.lorddark.club:80/Wandeson/123456/44918
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 6" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 6
-http://goodtv.xyz:2052/vander/vander/2274676
+http://lista.lorddark.club:80/Wandeson/123456/44919
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 7" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 7
-http://goodtv.xyz:2052/vander/vander/2274677
+http://lista.lorddark.club:80/Wandeson/123456/44920
