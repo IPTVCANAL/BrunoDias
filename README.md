@@ -88,52 +88,42 @@ http://canaishd.servidor.tv:8080/alice/alice123/33260
 http://canaishd.servidor.tv:8080/alice/alice123/489
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band HD+" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD+
 http://canaishd.servidor.tv:8080/alice/alice123/484
+#EXTINF:-1 tvg-id="Canal do Boi (BR)" tvg-name="Canal do Boi HD" tvg-logo="https://logos.servidor.tv/canaldoboi.png" group-title="Canais: Abertos",Canal do Boi HD
+http://canaishd.servidor.tv:8080/alice/alice123/29771
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural HD" tvg-logo="https://logos.servidor.tv/canalrural.gif" group-title="Canais: Abertos",Canal Rural HD
 http://canaishd.servidor.tv:8080/alice/alice123/29770
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD+" tvg-logo="https://logos.servidor.tv/futura.png" group-title="Canais: Abertos",Futura HD+
-http://canaishd.servidor.tv:8080/alice/alice123/53490
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD" tvg-logo="https://logos.servidor.tv/futura.png" group-title="Canais: Abertos",Futura HD+
+http://clienteworld.com:8080/iarley/iarley/83656
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Brasilia HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Brasilia HD
 http://goodtv.xyz:2052/vander/vander/2274730
 #EXTINF:-1 tvg-id="" tvg-name="Polishop HD+" tvg-logo="https://logos.servidor.tv/polishop.png" group-title="Canais: Abertos",Polishop HD+
 http://canaishd.servidor.tv:8080/alice/alice123/53498
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record BA HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record BA HD
-http://canaishd.servidor.tv:8080/alice/alice123/29777
 #EXTINF:-1 tvg-id="RecordNews" tvg-name="Record RS HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record RS HD
-http://canaishd.servidor.tv:8080/alice/alice123/29781
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="Record SP HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record SP HD
-http://canaishd.servidor.tv:8080/alice/alice123/403
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record SP HD+" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record SP HD+
-http://canaishd.servidor.tv:8080/alice/alice123/148
+http://clienteworld.com:8080/iarley/iarley/82874
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="https://logos.servidor.tv/redetv.png" group-title="Canais: Abertos",Rede TV HD
-http://canaishd.servidor.tv:8080/alice/alice123/136
+http://clienteworld.com:8080/iarley/iarley/83661
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Abertos",SBT HD
-http://goodtv.xyz:2052/vander/vander/2274851
-#EXTINF:-1 tvg-id="terraviva.br" tvg-name="Terra Viva HD+" tvg-logo="https://logos.servidor.tv/terraviva.png" group-title="Canais: Abertos",Terra Viva HD+
-http://canaishd.servidor.tv:8080/alice/alice123/53500
+http://clienteworld.com:8080/iarley/iarley/83666
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="Terra Viva HD" tvg-logo="https://logos.servidor.tv/terraviva.png" group-title="Canais: Abertos",Terra Viva HD
+http://clienteworld.com:8080/iarley/iarley/83672
 #EXTINF:-1 tvg-id="tvjustica.br" tvg-name="TV Justiça HD" tvg-logo="https://logos.servidor.tv/tvjustica.jpg" group-title="Canais: Abertos",TV Justiça HD
-http://canaishd.servidor.tv:8080/alice/alice123/22512
-#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV Senado HD" tvg-logo="https://logos.servidor.tv/tvsenado.jpg" group-title="Canais: Abertos",TV Senado HD
-http://canaishd.servidor.tv:8080/alice/alice123/22515
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record Belem HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record Belem HD
-http://canaishd.servidor.tv:8080/alice/alice123/29775
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record DF HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record DF HD
-http://canaishd.servidor.tv:8080/alice/alice123/29776
+http://clienteworld.com:8080/iarley/iarley/83682
+#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV Senado SD" tvg-logo="https://logos.servidor.tv/tvsenado.jpg" group-title="Canais: Abertos",TV Senado SD
+http://clienteworld.com:8080/iarley/iarley/83683
 #EXTINF:-1 tvg-id="tvbrasilcentral.br" tvg-name="TV Brasil 2 HD+" tvg-logo="https://logos.servidor.tv/tvbrasil2.png" group-title="Canais: Abertos",TV Brasil 2 HD+
 http://canaishd.servidor.tv:8080/alice/alice123/53492
-#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil HD" tvg-logo="https://logos.servidor.tv/tvbrasil.jpg" group-title="Canais: Abertos",TV Brasil HD
-http://canaishd.servidor.tv:8080/alice/alice123/22513
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil SD" tvg-logo="https://logos.servidor.tv/tvbrasil.jpg" group-title="Canais: Abertos",TV Brasil SD
+http://clienteworld.com:8080/iarley/iarley/83673
 #EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV Camara HD" tvg-logo="https://logos.servidor.tv/tvcamara.jpg" group-title="Canais: Abertos",TV Camara HD
 http://canaishd.servidor.tv:8080/alice/alice123/22511
-#EXTINF:-1 tvg-id="" tvg-name="TV Comunitária HD+" tvg-logo="https://logos.servidor.tv/tvcomunitaria.png" group-title="Canais: Abertos",TV Comunitária HD+
+#EXTINF:-1 tvg-id="" tvg-name="TV Comunitária HD" tvg-logo="https://logos.servidor.tv/tvcomunitaria.png" group-title="Canais: Abertos",TV Comunitária HD
 http://canaishd.servidor.tv:8080/alice/alice123/53491
 #EXTINF:-1 tvg-id="TV Cultura (BR)" tvg-name="TV Cultura HD" tvg-logo="https://logos.servidor.tv/cultura.jpg" group-title="Canais: Abertos",TV Cultura HD
 http://canaishd.servidor.tv:8080/alice/alice123/29772
 #EXTINF:-1 tvg-id="tvdiario.br" tvg-name="TV Diario HD" tvg-logo="https://logos.servidor.tv/tvdiario.png" group-title="Canais: Abertos",TV Diario HD
-http://canaishd.servidor.tv:8080/alice/alice123/4473
-#EXTINF:-1 tvg-id="tvdiario.br" tvg-name="TV Diario HD+" tvg-logo="https://logos.servidor.tv/tvdiario.png" group-title="Canais: Abertos",TV Diario HD+
-http://canaishd.servidor.tv:8080/alice/alice123/4472
+http://clienteworld.com:8080/iarley/iarley/83678
 #EXTINF:-1 tvg-id="tvescola.br" tvg-name="TV Escola HD" tvg-logo="https://logos.servidor.tv/tvescola.jpg" group-title="Canais: Abertos",TV Escola HD
-http://canaishd.servidor.tv:8080/alice/alice123/22514
+http://clienteworld.com:8080/iarley/iarley/83679
 ######FILMESESERIES #####
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD
 http://goodtv.xyz:2052/vander/vander/2274636
