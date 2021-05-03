@@ -242,12 +242,14 @@ http://lista.lorddark.club:80/Wandeson/123456/44914
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 2" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 2
 http://lista.lorddark.club:80/Wandeson/123456/44915
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 3" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 3
-http://lista.lorddark.club:80/Wandeson/123456/44916
+http://rec2.distv.net:80/clemente/clemente/50
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 4" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 4
-http://lista.lorddark.club:80/Wandeson/123456/44917
+http://rec2.distv.net:80/clemente/clemente/51
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 5" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 5
-http://lista.lorddark.club:80/Wandeson/123456/44918
+http://rec2.distv.net:80/clemente/clemente/52
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 6" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 6
 http://rec2.distv.net:80/clemente/clemente/53
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 7" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 7
-http://lista.lorddark.club:80/Wandeson/123456/44920
+http://rec2.distv.net:80/clemente/clemente/54
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 08" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 8
+http://rec2.distv.net:80/clemente/clemente/55
