@@ -173,8 +173,6 @@ http://goodtv.xyz:2052/vander/vander/2274793
 http://goodtv.xyz:2052/vander/vander/2274794
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
 http://goodtv.xyz:2052/vander/vander/2274787
-#EXTINF:-1 tvg-id="isat.br" tvg-name="i Sat HD" tvg-logo="https://logos.servidor.tv/isat.png" group-title="Canais: Filme e Série",i Sat HD
-http://canaishd.servidor.tv:8080/alice/alice123/53514
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://logos.servidor.tv/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD
 http://goodtv.xyz:2052/vander/vander/2274800
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="https://logos.servidor.tv/lifetime.png" group-title="Canais: Filme e Série",Lifetime FHD
