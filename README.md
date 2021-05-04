@@ -184,3 +184,26 @@ http://goodtv.xyz:2052/vander/vander/2274721
 http://goodtv.xyz:2052/vander/vander/2274722
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
 http://goodtv.xyz:2052/vander/vander/2274726
+##### DOCUMENTARIOS #####
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD
+http://goodtv.xyz:2052/vander/vander/2274638
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="https://logos.servidor.tv/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD
+http://goodtv.xyz:2052/vander/vander/2274696
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="https://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD
+http://goodtv.xyz:2052/vander/vander/2274701
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD
+http://goodtv.xyz:2052/vander/vander/2274702
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="https://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD
+http://goodtv.xyz:2052/vander/vander/2274704
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="https://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD
+http://goodtv.xyz:2052/vander/vander/2274705
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="https://logos.servidor.tv/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD
+http://goodtv.xyz:2052/vander/vander/2274797
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="https://logos.servidor.tv/h2.png" group-title="Canais: Documentário",H2 HD
+http://canaishd.servidor.tv:8080/alice/alice123/1465
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigacao Discovery HD" tvg-logo="https://logos.servidor.tv/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigacao Discovery HD
+http://goodtv.xyz:2052/vander/vander/2274798
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD" tvg-logo="https://logos.servidor.tv/natgeowild.png" group-title="Canais: Documentário",Nat Geo Wild HD
+http://goodtv.xyz:2052/vander/vander/2274813
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic HD+" tvg-logo="https://logos.servidor.tv/nationalgeographic.jpg" group-title="Canais: Documentário",National Geographic HD+
+http://goodtv.xyz:2052/vander/vander/2274814
