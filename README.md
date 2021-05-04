@@ -117,7 +117,7 @@ http://goodtv.xyz:2052/vander/vander/2274807
 #EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://logos.servidor.tv/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD
 http://goodtv.xyz:2052/vander/vander/2274684
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://logos.servidor.tv/tnt.png" group-title="Canais: Filme e Série",TNT HD
-http://portal.geniptv.com:8080/gTex2021_new/feew3erw3ref3AZA/3360
+http://rec2.distv.net:80/clemente/clemente/201
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Series HD" tvg-logo="https://logos.servidor.tv/tntseries.png" group-title="Canais: Filme e Série",TNT Series HD
 http://goodtv.xyz:2052/vander/vander/2274878
 #EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD" tvg-logo="https://logos.servidor.tv/universalchannel.jpg" group-title="Canais: Filme e Série",Universal Channel HD
