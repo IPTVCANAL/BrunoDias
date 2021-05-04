@@ -26,13 +26,13 @@
 
 #############################################CANAIS ESPORTES #############################
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 1 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 1 HD
-http://canaishd.servidor.tv:8080/celina/celina123/33267
+http://lista.lorddark.club:80/Wandeson/123456/201437
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 2 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 2 HD
-http://canaishd.servidor.tv:8080/celina/celina123/33268
+http://lista.lorddark.club:80/Wandeson/123456/201455
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 3 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 HD
-http://canaishd.servidor.tv:8080/celina/celina123/33269
+http://lista.lorddark.club:80/Wandeson/123456/201439
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 HD
-http://canaishd.servidor.tv:8080/celina/celina123/33270
+http://lista.lorddark.club:80/Wandeson/123456/201440
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
 
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
