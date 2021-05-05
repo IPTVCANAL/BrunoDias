@@ -1,19 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa
-http://rec2.distv.net:80/clemente/clemente/254
-#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa 2" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa 2
-http://rec2.distv.net:80/clemente/clemente/255
-#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa Extra" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa Extra
-http://rec2.distv.net:80/clemente/clemente/256
-#EXTINF:-1 tvg-id="" tvg-name="BBB Confessionario" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Confessionario
-http://rec2.distv.net:80/clemente/clemente/257
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Vip Xepa" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Cozinha Vip Xepa
-http://rec2.distv.net:80/clemente/clemente/258
-#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Piscina
-http://rec2.distv.net:80/clemente/clemente/260
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Colorido" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Quarto Colorido
-http://rec2.distv.net:80/clemente/clemente/261
-#EXTINF:-1 tvg-id="" tvg-name="BBB Sala de Estar" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Sala de Estar
-http://rec2.distv.net:80/clemente/clemente/262
 #############################################CANAIS ESPORTES #############################
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 1 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 1 HD
 http://lista.lorddark.club:80/Wandeson/123456/201437
@@ -57,9 +41,6 @@ http://rec2.distv.net:80/clemente/clemente/143
 http://rec2.distv.net:80/clemente/clemente/144
 #EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD+" tvg-logo="https://logos.servidor.tv/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD+
 http://rec2.distv.net:80/clemente/clemente/145
-##################### CANAIS ABERTOS ########################
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Brasilia HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Brasilia HD
-http://goodtv.xyz:2052/vander/vander/2274730
 #######CINE SKY ######
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1" tvg-logo="https://logos.servidor.tv/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: Cine SKY",CINE SKY 1
 http://lista.lorddark.club:80/Wandeson/123456/44914
