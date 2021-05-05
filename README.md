@@ -52,13 +52,11 @@ http://rec2.distv.net:80/clemente/clemente/119
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte",TNT Sports HD
 http://rec2.distv.net:80/clemente/clemente/201
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD
-http://goodtv.xyz:2052/vander/vander/2274713
+http://rec2.distv.net:80/clemente/clemente/143
 #EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://logos.servidor.tv/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD
-http://goodtv.xyz:2052/vander/vander/2274711
+http://rec2.distv.net:80/clemente/clemente/144
 #EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD+" tvg-logo="https://logos.servidor.tv/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD+
-http://goodtv.xyz:2052/vander/vander/2274712
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV  HD" tvg-logo="https://logos.servidor.tv/776ad0ef27acc0602c337dc2736f3a97.png" group-title="Canais: Esporte",Red Bull TV  HD+
-http://canaishd.servidor.tv:8080/alice/alice123/33260
+http://rec2.distv.net:80/clemente/clemente/145
 ##################### CANAIS ABERTOS ########################
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Brasilia HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Brasilia HD
 http://goodtv.xyz:2052/vander/vander/2274730
