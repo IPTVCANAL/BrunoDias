@@ -1,29 +1,19 @@
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 PRINCIPAL HD" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 PRINCIPAL HD
-
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 01 HD" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 01 HD
-
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 02 HD" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 02 HD
-
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 03 HD" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 03 HD
-
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM Mosaico HD" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM Mosaico HD
-
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 ACOMPANHE A CASA" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 05 HD
-
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 ACOMPANHE A CASA EXTRA" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 ACOMPANHE A CASA EXTRA
-
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CONFESSIONARIO" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CONFESSIONARIO
-
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 QUARTO CORDEL" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 QUARTO CORDEL
-
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 QUARTO COLORIDO" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 QUARTO COLORIDO
-
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 SALA DE ESTAR" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 SALA DE ESTAR
-
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 COZINHA XEPA" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 COZINHA XEPA
-
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 PISCINA" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 PISCINA
-
+#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa
+http://rec2.distv.net:80/clemente/clemente/254
+#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa 2" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa 2
+http://rec2.distv.net:80/clemente/clemente/255
+#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa Extra" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa Extra
+http://rec2.distv.net:80/clemente/clemente/256
+#EXTINF:-1 tvg-id="" tvg-name="BBB Confessionario" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Confessionario
+http://rec2.distv.net:80/clemente/clemente/257
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Vip Xepa" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Cozinha Vip Xepa
+http://rec2.distv.net:80/clemente/clemente/258
+#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Piscina
+http://rec2.distv.net:80/clemente/clemente/260
+#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Colorido" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Quarto Colorido
+http://rec2.distv.net:80/clemente/clemente/261
+#EXTINF:-1 tvg-id="" tvg-name="BBB Sala de Estar" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Sala de Estar
+http://rec2.distv.net:80/clemente/clemente/262
 #############################################CANAIS ESPORTES #############################
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 1 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 1 HD
 http://lista.lorddark.club:80/Wandeson/123456/201437
@@ -34,43 +24,31 @@ http://lista.lorddark.club:80/Wandeson/123456/201439
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 HD
 http://lista.lorddark.club:80/Wandeson/123456/201440
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
-
+http://rec2.distv.net:80/clemente/clemente/189
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
-
+http://rec2.distv.net:80/clemente/clemente/190
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD
-
+http://rec2.distv.net:80/clemente/clemente/188
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="https://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD
-
+http://rec2.distv.net:80/clemente/clemente/153
 #EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="https://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD
-
+http://rec2.distv.net:80/clemente/clemente/152
 #EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
-
+http://rec2.distv.net:80/clemente/clemente/179
 #EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
-
+http://rec2.distv.net:80/clemente/clemente/180
 #EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
-
+http://rec2.distv.net:80/clemente/clemente/181
 #EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
-
+http://rec2.distv.net:80/clemente/clemente/182
 #EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
-
+http://rec2.distv.net:80/clemente/clemente/183
 #EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
-
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 8 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 8 HD
-
+http://rec2.distv.net:80/clemente/clemente/237
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://logos.servidor.tv/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
-
+http://rec2.distv.net:80/clemente/clemente/184
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="https://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD
-
-#EXTINF:-1 tvg-id="Live: DAZN" tvg-name="DAZN HD" tvg-logo="https://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte",DAZN HD
-http://canaishd.servidor.tv:8080/alice/alice123/2716
-#EXTINF:-1 tvg-id="Mais Esportes" tvg-name="Mais Esportes 1 HD" tvg-logo="https://logos.servidor.tv/maisesportes.png" group-title="Canais: Esporte",Mais Esportes 1 HD
-http://canaishd.servidor.tv:8080/alice/alice123/41560
-#EXTINF:-1 tvg-id="Mais Esportes" tvg-name="Mais Esportes 2 HD" tvg-logo="https://logos.servidor.tv/maisesportes.png" group-title="Canais: Esporte",Mais Esportes 2 HD
-http://canaishd.servidor.tv:8080/alice/alice123/41561
-#EXTINF:-1 tvg-id="Mais Esportes" tvg-name="Mais Esportes 3 HD" tvg-logo="https://logos.servidor.tv/maisesportes.png" group-title="Canais: Esporte",Mais Esportes 3 HD
-http://canaishd.servidor.tv:8080/alice/alice123/41562
-#EXTINF:-1 tvg-id="Mais Esportes" tvg-name="Mais Esportes 4 HD" tvg-logo="https://logos.servidor.tv/maisesportes.png" group-title="Canais: Esporte",Mais Esportes 4 HD
-http://canaishd.servidor.tv:8080/alice/alice123/41563
+http://rec2.distv.net:80/clemente/clemente/119
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte",TNT Sports HD
 http://rec2.distv.net:80/clemente/clemente/201
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD
