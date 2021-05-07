@@ -94,15 +94,15 @@ http://srv.maxptv.net:8080/sirilo/sirilo/521
 #EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="https://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD
 http://srv.maxptv.net:8080/sirilo/sirilo/128
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="https://logos.servidor.tv/hbopop.jpg" group-title="Canais: Filme e Série",HBO Pop HD
-http://srv.maxptv.net:8080/sirilo/sirilo/111
+http://rec2.distv.net:80/clemente/clemente/161
 #EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD
-http://srv.maxptv.net:8080/sirilo/sirilo/531
+http://rec2.distv.net:80/clemente/clemente/162
 #EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: Filme e Série",HBO Xtreme HD
 http://srv.maxptv.net:8080/sirilo/sirilo/520
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
 http://srv.maxptv.net:8080/sirilo/sirilo/135
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://logos.servidor.tv/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD
-http://srv.maxptv.net:8080/sirilo/sirilo/522
+http://rec2.distv.net:80/clemente/clemente/167
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="https://logos.servidor.tv/paramount.jpg" group-title="Canais: Filme e Série",Paramount Channel HD
 http://srv.maxptv.net:8080/sirilo/sirilo/91
 #EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="https://logos.servidor.tv/sony.png" group-title="Canais: Filme e Série",Sony HD
