@@ -118,7 +118,7 @@ http://rec2.distv.net:80/clemente/clemente/151
 #EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://logos.servidor.tv/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD
 http://srv.maxptv.net:8080/sirilo/sirilo/43
 #EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="https://logos.servidor.tv/syfy.png" group-title="Canais: Filme e Série",Syfy HD
-http://srv.maxptv.net:8080/sirilo/sirilo/41
+http://rec2.distv.net:80/clemente/clemente/192
 #EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="https://logos.servidor.tv/tbs.png" group-title="Canais: Filme e Série",TBS HD
 http://srv.maxptv.net:8080/sirilo/sirilo/39
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="https://logos.servidor.tv/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD
