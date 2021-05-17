@@ -8,7 +8,7 @@ http://srv.maxptv.net:8080/atilio/atilio/18837
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 HD
 http://srv.maxptv.net:8080/atilio/atilio/18838
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
-http://srv.maxptv.net:8080/atilio/atilio/47
+http://rec2.distv.net:80/clemente/clemente/189
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
 http://srv.maxptv.net:8080/atilio/atilio/45
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD
